@@ -37,15 +37,15 @@
       0deg,
       rgba(205, 205, 205, 0.2) 0px,
       rgba(205, 205, 205, 0.2) 1px,
-      transparent 1px,
-      transparent 6px
+      transparent 0px,
+      transparent 5px
     ),
     repeating-linear-gradient(
       90deg,
       rgba(205, 205, 205, 0.2) 0px,
       rgba(205, 205, 205, 0.2) 1px,
       transparent 1px,
-      transparent 6px
+      transparent 5px
     ),
     linear-gradient(90deg, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0));
 }
